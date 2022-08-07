@@ -1,3 +1,9 @@
+## 0.3.0 (2022-08-07)
+
+### Feat
+
+- adds post-hook tagging based on CHANGELOG commits
+
 ## 0.2.0 (2022-08-07)
 
 ### Feat
