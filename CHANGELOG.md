@@ -1,3 +1,9 @@
+## 0.4.0 (2022-08-07)
+
+### Feat
+
+- adds post-hook script which will call python post-hook tagging script
+
 ## 0.3.0 (2022-08-07)
 
 ### Feat
