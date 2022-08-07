@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ -n $VIRTUAL_ENV ]; then
+    PATH=$VIRTUAL_ENV/bin:$PATH
+fi
+python3 post-commit-hook.py
