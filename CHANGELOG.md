@@ -1,3 +1,9 @@
+## 0.5.0 (2022-08-08)
+
+### Feat
+
+- adds requirements.txt for python dependencies
+
 ## 0.4.0 (2022-08-07)
 
 ### Feat
